@@ -1,5 +1,4 @@
-import Consumer from './consumer';
-import PostgresQueueDriver from './queueDriver/PostgresQueueDriver';
-import SupabaseQueueDriver from './queueDriver/SupabaseQueueDriver';
+import Consumer from "./consumer";
+import CrockroachQueueDriver from "./queueDriver/CrockroachQueueDriver";
 
-export { Consumer, PostgresQueueDriver, SupabaseQueueDriver };
+export { Consumer, CrockroachQueueDriver };
