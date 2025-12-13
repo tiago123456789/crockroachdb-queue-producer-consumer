@@ -23,15 +23,15 @@
   "packageManager": "pnpm@10.7.1",
   "devDependencies": {
     "@types/jest": "^30.0.0",
-    "@types/pg": "^8.15.5",
-    "ts-jest": "^29.4.1",
+    "@types/pg": "^8.16.0",
+    "ts-jest": "^29.4.6",
     "ts-node-dev": "^2.0.0",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.3"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.56.0",
-    "dotenv": "^17.2.1",
-    "jest": "^30.1.1"
+    "@supabase/supabase-js": "^2.87.1",
+    "dotenv": "^17.2.3",
+    "jest": "^30.2.0"
   },
   "engines": {
     "node": ">=20.0.0"
