@@ -4,6 +4,7 @@
   "description": "The crockroachdb-queue-producer-consumer is project to use Crockroachdb as queue",
   "main": "dist/index.js",
   "type": "commonjs",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "start:example:crockroach": "ts-node ./examples/consumerCrockroachDriver.ts",
