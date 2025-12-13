@@ -1,6 +1,6 @@
 {
   "name": "crockroachdb-queue-producer-consumer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The crockroachdb-queue-producer-consumer is project to use Crockroachdb as queue",
   "main": "dist/index.js",
   "type": "commonjs",
